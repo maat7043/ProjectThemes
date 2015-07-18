@@ -1,0 +1,22 @@
+C:\Users\Matt\AppData\Local\Temporary Projects\iStockTracking\bin\Debug\iStockTracking.exe.config
+C:\Users\Matt\AppData\Local\Temporary Projects\iStockTracking\bin\Debug\iStockTracking.exe
+C:\Users\Matt\AppData\Local\Temporary Projects\iStockTracking\bin\Debug\iStockTracking.pdb
+C:\Users\Matt\AppData\Local\Temporary Projects\iStockTracking\bin\Debug\iStockTracking.xml
+C:\Users\Matt\AppData\Local\Temporary Projects\iStockTracking\obj\Debug\iStockTracking.marketSelection.resources
+C:\Users\Matt\AppData\Local\Temporary Projects\iStockTracking\obj\Debug\iStockTracking.Resources.resources
+C:\Users\Matt\AppData\Local\Temporary Projects\iStockTracking\obj\Debug\iStockTracking.vbproj.GenerateResource.Cache
+C:\Users\Matt\AppData\Local\Temporary Projects\iStockTracking\obj\Debug\iStockTracking.exe
+C:\Users\Matt\AppData\Local\Temporary Projects\iStockTracking\obj\Debug\iStockTracking.xml
+C:\Users\Matt\AppData\Local\Temporary Projects\iStockTracking\obj\Debug\iStockTracking.pdb
+C:\Users\Matt\AppData\Local\Temporary Projects\iStockTracking\obj\Debug\iStockTracking.vbprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Visual Studios Projects\iStockTracking\iStockTracking\obj\Debug\iStockTracking.vbprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Visual Studios Projects\iStockTracking\iStockTracking\obj\Debug\iStockTracking.vbproj.GenerateResource.Cache
+C:\Users\Matt\Documents\Visual Studios Projects\iStockTracking\iStockTracking\bin\Debug\Themes.dll.config
+C:\Users\Matt\Documents\Visual Studios Projects\iStockTracking\iStockTracking\bin\Debug\Themes.dll
+C:\Users\Matt\Documents\Visual Studios Projects\iStockTracking\iStockTracking\bin\Debug\Themes.pdb
+C:\Users\Matt\Documents\Visual Studios Projects\iStockTracking\iStockTracking\bin\Debug\Themes.xml
+C:\Users\Matt\Documents\Visual Studios Projects\iStockTracking\iStockTracking\obj\Debug\Themes.marketSelection.resources
+C:\Users\Matt\Documents\Visual Studios Projects\iStockTracking\iStockTracking\obj\Debug\Themes.Resources.resources
+C:\Users\Matt\Documents\Visual Studios Projects\iStockTracking\iStockTracking\obj\Debug\Themes.dll
+C:\Users\Matt\Documents\Visual Studios Projects\iStockTracking\iStockTracking\obj\Debug\Themes.xml
+C:\Users\Matt\Documents\Visual Studios Projects\iStockTracking\iStockTracking\obj\Debug\Themes.pdb
